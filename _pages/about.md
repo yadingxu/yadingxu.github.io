@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Delft University of Technology</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 6.15</p>
+    <p>Room 6.15,</p>
     <p>Stevinweg 1</p>
     <p>Delft, The Netherlands</p>
 
